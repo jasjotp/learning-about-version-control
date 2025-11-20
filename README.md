@@ -1,2 +1,2 @@
-# learning-about-version-control
-Assignment 1 for DSCI522
+# Learning about Version Control
+Author: Jasjot Parmar
